@@ -78,6 +78,10 @@ enableEmoji = true
       icon_pack = "fab"
       url       = "https://www.linkedin.com/in/joanborton/"
   [[params.social]]
+      icon      = "google"
+      icon_pack = "fab"
+      url       = "http://www.stellar-marketing.net/"
+  [[params.social]]
       icon      = "facebook-square" # icon name without the 'fa-'
       icon_pack = "fab"
       url       = "https://www.facebook.com/joan.v.borton"
@@ -121,9 +125,9 @@ enableEmoji = true
     url = "/talk/"
     weight = 4
   [[menu.header]]
-    name = "Resume"
-    title = "Resume"
-    url = "/resume/"
+    name = "resume"
+    title = "resume"
+    url = "/resume/JoanBortonResume"
     weight = 5
     
   # Configure footer  
