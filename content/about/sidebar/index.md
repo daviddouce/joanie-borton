@@ -5,7 +5,7 @@ role: "Marketing Professional @ Stellar"
 avatar_shape: rounded # circle, square, rounded
 show_social_links: true # specify social accounts in site config
 show_audio_link: false
-audio_link_label: "How to say my name"
+audio_link_label: 
 link_list_label: "Interests" # bookmarks, elsewhere, etc.
 link_list:
 - name: Taproot
