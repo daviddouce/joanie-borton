@@ -119,16 +119,12 @@ enableEmoji = true
     title = "Project Portfolio"
     url = "/project/"
     weight = 3
-  [[menu.header]]
-    name = "Talks"
-    title = "Talks"
-    url = "/talk/"
-    weight = 4
+
   [[menu.header]]
     name = "resume"
     title = "resume"
-    url = "/resume/JoanBortonResume"
-    weight = 5
+    url = "/resume/JoanBortonResume.pdf"
+    weight = 4
     
   # Configure footer  
   [[menu.footer]]
