@@ -3,7 +3,7 @@ title: "Lorem Arrested Development"
 subtitle: "How to add panelsets in R Markdown posts."
 excerpt: "Add tabbed sections with code and results."
 date: 2021-05-24
-author: "Alison Hill"
+author: "Joan Borton"
 draft: false
 # layout options: single, single-sidebar
 layout: single
@@ -11,7 +11,7 @@ categories:
 - evergreen
 ---
 
-{{< here >}}
+
 
 ## But first, panelsets with R code chunks
 
@@ -24,7 +24,7 @@ categories:
 {{< panel name="Code" >}}
 
 
-```r
+``` r
 plot(pressure)
 ```
 
