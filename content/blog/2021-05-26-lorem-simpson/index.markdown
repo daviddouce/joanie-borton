@@ -9,10 +9,10 @@ images:
 series:
 tags:
 categories:
-layout: single
+layout: single-sidebar
 ---
 
-{{< here >}}
+
 
 ## Some penguins to start
 

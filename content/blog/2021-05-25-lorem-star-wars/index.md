@@ -6,12 +6,12 @@ date: 2021-05-25
 author: "Joan Borton"
 draft: false
 # layout options: single, single-sidebar
-layout: single
+layout: single-sidebar
 categories:
 - Theme features
 ---
 
-{{< here >}}
+
 
 ## But first, a shortcode trick
 
